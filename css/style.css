@@ -1,0 +1,244 @@
+.form-control{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    border: 2px black solid;
+}
+.button-sign{
+text-decoration: none;
+color: black;
+font-size: 13px;
+padding-left: 0.4rem;
+padding-right: 0.4rem;
+font-weight: bold;
+width: 100%;
+}
+.form-control{
+background-color: #f4f4f4;
+}
+.heart
+{
+    align-items: center;
+    justify-content: center;
+    
+}
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+.menu li a:hover{
+    text-decoration: underline;
+}
+.jumbotron{
+    background-color: #ddebe3;
+   
+}
+.lead{
+    font-size: 20px;
+    padding: 20px;
+    color: #274262;
+    font-family: sans-serif;
+    margin: 0;
+}
+.jumbotron2{
+    background-color: #ddebe3;
+    position: relative;
+    height: 80px;
+}
+.img-category{
+    width: 100px;
+    height: 100px;
+    border-radius: 180px;
+    -webkit-border-radius: 180px;
+    -moz-border-radius: 180px;
+    -ms-border-radius: 180px;
+    -o-border-radius: 180px;
+    border: 1px gray solid;
+}
+.imag-plus-title{
+    justify-content: center;
+   
+}
+.imag-plus-title a{
+    text-decoration: none;
+    color: black;
+}
+.imag-plus-title a :hover{
+    text-decoration: underline;
+}
+.group-img-header{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.text-midl-card{
+    margin-top:50px;
+}
+.card-img-top{
+    width: 100%;
+    height: 190px;
+}
+.esty-question{
+    color: #222222;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3rem;   
+}
+.cards{
+    margin-bottom: 7%;
+}
+.small-txt a{
+    color: black;
+}
+.part3{
+    background-color: #fdebd2;
+}
+.txt-left a{
+    text-decoration: none;
+    border-bottom: black dashed  2px;
+    color: black;
+}
+.txt-left a:hover{
+    text-decoration: none;
+    border-bottom: black dashed  2px;
+    color: black;
+    cursor: help;
+}
+.button-help{
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    border: black 2px solid;
+    text-decoration: none;
+    color: black;   
+}
+.button-help:hover{
+    color: black;
+    scale: 0.95;
+}
+.part4{
+    background-color: #d7e6f5;
+}
+.example{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-color: white;
+    padding: 0.5%;
+    
+}
+.form-control2{
+   border: none;
+   border-radius: 30px;
+   -webkit-border-radius: 30px;
+   -moz-border-radius: 30px;
+   -ms-border-radius: 30px;
+   -o-border-radius: 30px;
+   width: 100%;
+}
+ .buttun-search{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+ }
+ .form-control2:ho{
+    border: none;
+ }
+ .part5{
+    background-color: #4d6bc6;
+ }
+.mark2 a{
+   border-bottom: dashed 1px white;
+}
+.mark2 a:hover{
+    cursor: help;
+}
+.part6{
+    background-color: #2f466c;
+}
+.padd{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.list1 li{
+    list-style: none;
+    padding: 1%;
+}
+.list1 li a{
+    text-decoration: none;
+    color: white;
+}
+.list1 li a:hover{
+   text-decoration: underline;
+}
+.link-E{
+    text-decoration: none;
+    color: white;
+}
+.div-E a{
+    text-decoration: none;
+    color: white;
+}
+.list1 .div-E{
+    border:  2px solid white;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    padding: 3%;
+}
+.link-E:hover{
+text-decoration: none;
+color: white;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+.icons li i{
+    font-size: 2rem;
+}
+footer{
+    background-color: #232347;
+ 
+}
+.div-le-ri{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.left div a{
+    color: white;
+    text-decoration: none;
+}
+.right li {
+    color: white;
+    list-style: none;
+}
+.right li a{
+    color: white;
+}
+.div-le-ri{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
